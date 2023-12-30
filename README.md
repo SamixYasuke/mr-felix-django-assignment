@@ -16,7 +16,7 @@ This Django-based E-commerce Web App, is a comprehensive solution developed for 
 - **Django Framework:** A high-level Python web framework that encourages rapid development and clean, pragmatic design.
 - **Django ORM:** An object-relational mapping system that simplifies database interactions.
 - **Python:** The primary programming language for the backend logic.
-- **HTML/CSS/JavaScript:** For creating the frontend views and enhancing user interactivity.
+- **HTML/CSS/JavaScript/Bootstrap:** For creating the frontend views and enhancing user interactivity.
 
 ## Getting Started
 
