@@ -49,16 +49,9 @@ This project is open-source and licensed under the [MIT License](LICENSE), encou
 - [Contributing](#contributing)
 - [License](#license)
 - [Testing](#testing)
-- [Documentation](#documentation)
-- [FAQ](#faq)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [Badges](#badges)
-- [Support](#support)
-- [Versioning](#versioning)
 
 ## Installation
-
 
 ```bash
 # Clone the repository
@@ -116,14 +109,9 @@ testing was done by users manually we had a group who searched for bugs manually
 Documentation will be readily available soon
 
 
-
 ## Acknowledgments
 
 We thank Djandgo for the ability to create an application so easily we are also grateful for the middleware used for authentication
 
-
-
-## Support
-
-If your project has ongoing support or maintenance, mention it here.
+.
 
